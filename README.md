@@ -10,3 +10,5 @@ If anyone would like to contribute with implementing an auto-tab completion feat
 3. Use `./a.out` to execute program
 
 ## Sample Run
+![](https://github.com/tiabenson/mini_shell/blob/master/ScreenShot1.png)
+![](https://github.com/tiabenson/mini_shell/blob/master/ScreenShot2.png)
